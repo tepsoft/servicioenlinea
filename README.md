@@ -5,7 +5,9 @@ Hola esta es la rama para el desarrollo de nuestro proyecto, la rama más baja d
 
 
   Master = Producción
+  
     Pruebas = Contendra el código que se tendrá que probar después de su desarrollo o correción.
+    
       Desarrollo = Es el repositorio que utilizaremos para el desarrollo del proyecto.
       
       
